@@ -1,0 +1,29 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+.gradle
+.idea
+.settings
+WebRoot/image
+WebRoot/WEB-INF/lib
+
+index.html
+
+gradle
+projectFilesBackup
+app/libs
+app/jniLibs
+app/build
+multi-image-selector/build
+
+import-summary.txt
+
+
+# Package Files #
+
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
